@@ -1,5 +1,5 @@
 
-http://image-filter-starter-code-dev222222222.us-east-2.elasticbeanstalk.com/
+http://udagram-dev22.us-east-2.elasticbeanstalk.com/
 
 # Udagram Image Filtering Microservice
 
